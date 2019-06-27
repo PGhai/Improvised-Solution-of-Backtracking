@@ -1,5 +1,5 @@
 # Improvised-Solution-of-Backtracking
-This is the improvised version of rat in maze solution proposed in geeks for geeks with 3 directional movement of the path,
+
 
 This is the java based silution of using backtracking algorithm to solve rat in maza solution aka treasure map solution.
 
